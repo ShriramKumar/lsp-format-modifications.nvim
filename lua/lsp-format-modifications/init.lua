@@ -35,7 +35,7 @@ local base_config = {
 
   -- EXPERIMENTAL: when true, do not attempt formatting on the outermost empty
   -- lines in diff hunks, and do not touch hunks consisting of entirely empty lines
-  experimental_empty_line_handling = false
+  experimental_empty_line_handling = false,
 
   validate_client_range_formatting_support = true
 }
